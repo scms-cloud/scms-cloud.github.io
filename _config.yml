@@ -7,4 +7,4 @@ url: "https://scms-cloud.github.io/" # the base hostname & protocol for your sit
 github_username:  scms-cloud
 
 theme: jekyll-theme-cayman
-
+markdown: kramdown
