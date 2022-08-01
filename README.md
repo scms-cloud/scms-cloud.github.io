@@ -13,7 +13,7 @@ SCMS Cloud Console [바로가기](https://master.dh1qexdubu175.amplifyapp.com/){
 ### 사용자 매뉴얼
 
 1. 회원가입
-   1. 회원가입 및 이메일 인증
+   1. [회원가입 및 이메일 인증](회원가입_및_이메일_인증.md)
    2. 비밀번호 변경
    3. 회원탈퇴
 2. 등록인증서 발급
@@ -22,6 +22,10 @@ SCMS Cloud Console [바로가기](https://master.dh1qexdubu175.amplifyapp.com/){
 3. 익명인증서 발급
    1. 익명인증서 발급요청
    2. 익명인증서 다운로드 확인
+
+### FAQ
+
+자주하는 질문 [바로가기](faq.md)
 
 ### 고객지원 및 업무제휴
 
