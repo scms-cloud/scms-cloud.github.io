@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## SCMS Cloud 에 오신것을 환영합니다.
 
-You can use the [editor on GitHub](https://github.com/scms-cloud/scms-cloud.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+SCMS Cloud 는 V2X 디바이스(OBU/RSU)의 SCMS 테스트를 쉽고 편리하게 사용하실 수 있도록 개발 되었습니다.\
+간단한 가입 절차 후 등록인증서를 발급하고 디바이스에서 직접 발급 테스트를 해 볼 수 있습니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+본 프로젝트는 국제표준 보안규격(IEEE 1609.2)인증서를 발급하고 관리합니다.\
+테스트에서는 인증서를 생성하고 생성된 인증서를 쉽게 확인할 수 있습니다. (RA/ECA)
 
-### Markdown
+### 바로가기
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+SCMS Cloud Console 바로가기 
+https://master.dh1qexdubu175.amplifyapp.com/
 
-```markdown
-Syntax highlighted code block
+### 사용자 매뉴얼
 
-# Header 1
-## Header 2
-### Header 3
+1. 회원가입
+   1. 회원가입 및 이메일 인증
+   2. 비밀번호 변경
+   3. 회원탈퇴
+2. 등록인증서 발급
+   1. ㅁㅁ
+3. 익명인증서 발급
+   1. ㅁㅁ
 
-- Bulleted
-- List
+### 고객지원 및 업무제휴
 
-1. Numbered
-2. List
+사용중 문제가 생기셨나요?\
+사용자 매뉴얼/FAQ 등을 방문하시거나 아래 연락처로 연락 부탁드립니다.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scms-cloud/scms-cloud.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+02)522-3107\
+contact@ciotsecurity.com
