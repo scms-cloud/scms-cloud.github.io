@@ -6,22 +6,17 @@ SCMS Cloud 는 V2X 디바이스(OBU/RSU)의 SCMS 테스트를 쉽고 편리하�
 본 프로젝트는 국제표준 보안규격(IEEE 1609.2)인증서를 발급하고 관리합니다.\
 테스트에서는 인증서를 생성하고 생성된 인증서를 쉽게 확인할 수 있습니다. (RA/ECA)
 
-### 바로가기
 
-SCMS Cloud Console [바로가기](https://master.dh1qexdubu175.amplifyapp.com/){:target="_blank"}
+### SCMS Cloud Console
+
+서비스를 이용하기 위환 웹 서비스\
+[SCMS Cloud Console 바로가기](https://master.dh1qexdubu175.amplifyapp.com/){:target="_blank"}
 
 ### 사용자 매뉴얼
 
-1. 회원가입
-   1. [회원가입 및 이메일 인증](pages/회원가입_및_이메일_인증.md)
-   2. [비밀번호 변경](pages/비밀번호변경.md)
-   3. [회원탈퇴](pages/회원탈퇴.md)
-2. 등록인증서 발급
-   1. [등록인증서 발급요청서 생성](pages/등록인증서_발급요청서_생성.md)
-   2. [등록인증서 발급 및 다운로드](pages/등록인증서 발급 및 다운로드.md)
-3. 익명인증서 발급
-   1. [익명인증서 발급요청](pages/익명인증서_발급요청.md)
-   2. [익명인증서 다운로드 및 파일확인](pages/익명인증서_다운로드_및_파일확인.md)
+1. [회원가입 및 탈퇴](pages/회원가입_및_탈퇴.md)
+2. [등록인증서 발급](pages/등록인증서_발급.md)
+3. [익명인증서 발급](pages/익명인증서_발급.md)
 
 ### FAQ
 
