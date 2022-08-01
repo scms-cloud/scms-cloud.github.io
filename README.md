@@ -8,8 +8,7 @@ SCMS Cloud 는 V2X 디바이스(OBU/RSU)의 SCMS 테스트를 쉽고 편리하�
 
 ### 바로가기
 
-SCMS Cloud Console 바로가기 
-https://master.dh1qexdubu175.amplifyapp.com/
+SCMS Cloud Console [바로가기](https://master.dh1qexdubu175.amplifyapp.com/)
 
 ### 사용자 매뉴얼
 
