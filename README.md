@@ -9,7 +9,7 @@ SCMS Cloud 는 V2X 디바이스(OBU/RSU)의 SCMS 테스트를 쉽고 편리하�
 
 ### SCMS Cloud Console
 
-서비스를 이용하기 위환 웹 서비스\
+서비스를 이용하기 위한 웹 서비스\
 [SCMS Cloud Console 바로가기](https://master.dh1qexdubu175.amplifyapp.com/){:target="_blank"}
 
 ### 사용자 매뉴얼
@@ -24,8 +24,8 @@ SCMS Cloud 는 V2X 디바이스(OBU/RSU)의 SCMS 테스트를 쉽고 편리하�
 
 ### 고객지원 및 업무제휴
 
-사용중 문제가 생기셨나요?\
-사용자 매뉴얼/FAQ 등을 방문하시거나 아래 연락처로 연락 부탁드립니다.
+사용중 문제가 생기셨나요? 먼저 FAQ 를 확인해 보세요.\
+그래도 해결이 안되시면 아래 연락처로 연락 주세요.
 
 02)522-3107\
 contact@ciotsecurity.com
